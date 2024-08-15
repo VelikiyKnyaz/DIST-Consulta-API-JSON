@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "jose",
+      "state": true,
+      "deck": [101, 102, 103, 104, 105]
+    },
+    {
+      "id": 2,
+      "username": "laura",
+      "state": true,
+      "deck": [206, 307, 408, 509, 610]
+    },
+    {
+      "id": 3,
+      "username": "david",
+      "state": true,
+      "deck": [77, 88, 99, 111, 222]
+    },
+    {
+      "id": 4,
+      "username": "carla",
+      "state": true,
+      "deck": [123, 234, 345, 456, 567]
+    },
+    {
+      "id": 5,
+      "username": "andres",
+      "state": true,
+      "deck": [89, 90, 91, 92, 93]
+    }
+  ],
+  "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
+}
